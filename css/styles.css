@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia, serif;
+    padding: 1em 15em 1em 4em;
+    margin: 0 auto;
+    max-width: 640em;
+    background-color: #FFF5EE;
+}
+
+h1 {
+    line-height: 0.5em;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.25em;
+}
+
+#left {
+    width: 20%;
+    display: table-cell;
+    border-right: 1px solid #D8BFD8;
+    border-top: 1px solid #D8BFD8;
+    vertical-align: top;
+    background-color: #FFF9F4;
+    padding-left: 0.25em;
+}
+
+#left > div {
+    padding-bottom: 0.5em;
+    border: 0;
+}
+
+#right {
+    width: 80%;
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 1em;
+    border-top: 1px solid #D8BFD8;
+}
+
+.box {
+    border-bottom: 1px solid #D8BFD8;
+}
