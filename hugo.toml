@@ -1,0 +1,4 @@
+baseURL = 'https://3dbrows.dev/'
+languageCode = 'en-gb'
+title = 'Duncan MacQuarrie'
+theme = 'nostyleplease'

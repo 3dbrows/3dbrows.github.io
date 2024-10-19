@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duncan MacQuarrie</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Duncan MacQuarrie</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 23 Jul 2021 13:06:17 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Startup idea: .nonpublic trusted TLS</title>
+      <link>http://localhost:1313/posts/tls/</link>
+      <pubDate>Fri, 23 Jul 2021 13:06:17 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tls/</guid>
+      <description>&lt;p&gt;What if we could make the practical use of self-signed TLS certificates a painless experience?&lt;/p&gt;&#xA;&lt;p&gt;Accessing an intranet website protected with a self-signed TLS certificate is not a smooth experience. The browser does not trust the certificate unless it is installed in the OS trust store or explicitly accepted; bypassing the security warning makes a norm out of dismissing them; developers are discouraged from making TLS a first-class part of their local environment because of these issues. How can we solve this problem and make accessing &lt;a href=&#34;https://foo.bar.local&#34;&gt;https://foo.bar.local&lt;/a&gt; error-free, with a widely-trusted certificate? And is there a viable business idea in the solution?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
