@@ -1,0 +1,3 @@
+[submodule "hugo/quickstrt/hugo-theme-nostyleplease"]
+	path = hugo/quickstrt/hugo-theme-nostyleplease
+	url = https://github.com/hanwenguo/hugo-theme-nostyleplease.git
